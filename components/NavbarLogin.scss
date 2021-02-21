@@ -1,0 +1,142 @@
+.navbar-container {
+    background: #445e6b;
+    color: #fde84d;
+    font-weight: normal;
+    height: 6rem;
+    width: 100vw;
+    z-index: 99;
+    padding: 1rem 2rem;
+    font-family: "Roboto", sans-serif;
+    .navbar {
+        padding: 0 0;
+        vertical-align: middle;
+        display: flex;
+        justify-content: space-between;
+        box-shadow: 0 10px 10px -2px rgba(0, 0, 0, 0.3);
+
+        .navbar-logo {
+            max-width: 50px;
+            height: auto;
+            padding-left: 0;
+            margin-left: 10px;
+        }
+        .navbar-logo-font {
+            margin-left: 15px;
+            max-height: 30px;
+            max-width: auto;
+            position: relative;
+        }
+        .navbar-login-right {
+            position: relative;
+            display: flex;
+            .navbar-search {
+                position: relative;
+            }
+            .navbar-text {
+                padding: 0.5rem 1rem !important;
+                place-self: center;
+
+                .navbar-h3 {
+                    font-size: 1rem;
+                    font-weight: bold;
+                    right: 0;
+                    padding-bottom: 0;
+                    color: #fff;
+                }
+                input {
+                    min-width: 20vw;
+                    max-width: 40vw;
+                    height: 2.5rem;
+                    overflow: hidden;
+                    padding: 0;
+                    border: none;
+                    border-radius: 5px;
+                    margin-left: 10px;
+                }
+                .buttonSearch {
+                    position: absolute;
+                    width: 25px;
+                    height: 20px;
+                    top: 17%;
+                    right: 10%;
+                    :hover {
+                        color: #353636;
+                    }
+                }
+            }
+        }
+    }
+    .nav-link {
+        display: block;
+    }
+    .navbar-text.nav-dropdown {
+        padding-top: 0;
+        margin-top: 0;
+    }
+}
+
+.alignMiddle {
+    vertical-align: middle;
+}
+.card-list {
+    width: 100%;
+    background: #343434;
+}
+
+.clinic-card {
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.25);
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    background-color: #343434;
+    color: #e5e5e5;
+    &--title {
+        margin-bottom: 0.5rem;
+        font-size: 1.75rem;
+        text-align: center;
+    }
+    &--loc {
+        margin-bottom: 0.5rem;
+        font-size: 1.5rem;
+        text-align: center;
+    }
+    &--desc {
+        font-size: 1.2rem;
+        text-align: center;
+    }
+    &--image {
+        margin: 0 auto;
+        display: block;
+        height: 500px;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar-container {
+        padding: 1rem 2rem;
+        .navbar-search {
+            display: none;
+        }
+    }
+}
+
+@media (max-width: 500px) {
+    .navbar-container {
+        padding: 1rem;
+        .navbar-logo-font {
+            display: none;
+        }
+        .navbar-logo {
+            max-width: 30px;
+            height: auto;
+            padding-left: 0;
+            margin-left: 0;
+        }
+    }
+}
+
+@media (max-width: 300px) {
+    .navbar-logo {
+        display: none;
+    }
+}

@@ -1,0 +1,57 @@
+.bg-footer {
+    background: #445E6B;
+    color: #fde84d;
+}
+
+.logo5 {
+    height: 6rem;
+    padding-left: 60px;
+}
+
+.logo6 {
+    height: 3rem;
+    
+}
+
+
+/* .followus {
+    float:inherit;
+    color: #fde84d;
+} */
+
+.text-light {
+    list-style: none;
+    color: #fde84d;
+}
+
+/* .company1 {
+    float: inherit;
+    color: #fde84d;
+} */
+
+.company1 p{
+    color: #fde84d !important;
+}
+
+.FT {
+    color: #fde84d;
+}
+
+.ft {
+    color: #fde84d;
+}
+
+.followus{
+    color: #fde84d;
+}
+
+.pagee{
+    color: #fde84d;
+}
+
+
+/* .tt {
+    float: right;
+    color: #fde84d;
+} */
+

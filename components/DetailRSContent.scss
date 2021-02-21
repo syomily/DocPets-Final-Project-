@@ -1,0 +1,27 @@
+.detailrs-container {
+  padding: 1rem 2rem;
+  display: flexbox;
+  .col {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .detailButtonBook {
+    background-color: #fff;
+    color: #000;
+    position: relative;
+    margin-top: 0.5rem 0;
+    margin-right: 10px;
+    border: 0px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    font-weight: 500;
+    padding: 0.5rem;
+  }
+  .detailButtonBookClick {
+    background-color: #fde84d;
+    color: #445e6b;
+  }
+}

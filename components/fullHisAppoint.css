@@ -1,0 +1,40 @@
+
+.nav-bar {
+    display: inline-block;
+    list-style-type: none;
+    margin: 1rem;
+    border :  #fde84d;
+}
+
+.NvCOK {
+    display: inline-block;
+    list-style-type: none;
+    margin: 1rem;
+    border : 2px solid #fde84d;
+    background-color: #e6b105;
+
+}
+
+.rounded-circle {
+    border-radius: 50%;
+    width: 100px;
+    height: auto;
+}
+
+.containerprf {
+    border: 2px solid #e6e6e6;
+}
+
+.mybag {
+    width: 15%;
+}
+
+.btn-low {
+    margin-bottom: 10px;
+}
+
+.col-lg-12 {
+    margin-top: 2rem;
+    border: 2px solid #e6e6e6;
+}
+

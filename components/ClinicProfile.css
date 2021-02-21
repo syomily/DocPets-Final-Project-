@@ -1,0 +1,91 @@
+.container-profile {
+    border: 2px solid #e6e6e6;
+}
+
+.uploadpc {
+    width: 100 solid;
+    height: 200px solid;
+    align-items: center;
+}
+
+.photo-prf {
+    border-radius: 20%;
+    width: 100px;
+    height: 100px;
+}
+
+.btn-md {
+    background-color: #fde84d;
+    color: #020202;
+    align-items: center;
+}
+
+.info {
+    text-align: center;
+    align-items: center;
+    margin:auto;
+}
+
+.page-header {
+    margin-bottom: 10px;
+}
+
+.form-group {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.file-input {
+    border: 1px solid;
+    border-color: #e6e6e6;
+    width: 100%;
+}
+
+.btn-sb {
+    background-color: #fde84d;
+    color: #020202;
+    border-color: #fde84d;
+    margin-bottom: 20px;
+}
+
+.btn-re {
+    background-color: #fde84d;
+    color: #020202;
+    border-color: #fde84d;
+    margin-bottom: 20px;
+}
+
+.form-opr {
+    align-items: center;
+    width: 100%;
+    padding-left: 5px;
+}
+
+.form-drh {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.radio-ktk {
+    align-items: center;
+}
+
+.btn-lgt {
+    align-items:center;
+}
+
+.btn-sm {
+    align-items: center !important;
+    text-align: center !important;
+}
+
+.con-bwh {
+    border: 2px solid #e6e6e6;
+}
+
+.judultulisan {
+    font-weight: bold;
+    border-bottom: 2px solid #e6e6e6;;
+}

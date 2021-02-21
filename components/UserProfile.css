@@ -1,0 +1,111 @@
+.CardInfo{
+    position: relative;
+    width: 50vh;
+    height: 20vh;
+    display: flex;
+    right: -10vh;
+    margin-top: 5vh;
+}
+.Picture{
+    position: relative;
+    width: 10vh;
+    right: -9vw;
+    top: 2vh;
+}
+.User{
+    margin: auto;
+    padding-left: 40%;
+}
+.Count{
+    position: relative;
+    left: 45%;
+    top: 5vh;
+}
+.Hewan{
+    position: relative;
+    padding-left: 50%;
+    top: 4.9vh;
+}
+.Paw{
+    position: relative;
+    right: 20vw;
+    width: 5vh;
+}
+.Jumlah{
+    position: relative;
+    right: 16.5vw;
+    top: -3.5vh;
+}
+.History{
+    position: relative;
+    padding-top: 2.5%;
+}
+.Date{
+    width: 6vh;
+    position: relative;
+    right: -0.5vw;
+    top: -7vh;
+}
+.Kunjungan{
+    position: relative;
+    top: -11.5vh;
+    right: -5vw;
+}
+.Logout{
+    position: relative;
+    width: 25vw;
+    right: -5.5vw;
+    top: 31.5vh;
+}
+.Uploadfoto{
+    position: relative;
+    width: 65vw;
+    right: -60vh;
+    top: -29.5vh;
+    text-align: left;
+}
+.Upload{
+    position: relative;
+    width: 65vw;
+    right: -60vh;
+    top: -29vh;
+}
+.Basicinformation{
+    position: relative;
+    width: 65vw;
+    right: -60vh;
+    top: -28vh;
+    text-align: left;
+}
+.Username{
+    position: relative;
+    width: 30vw;
+    right: -1.5vw;
+    text-align: left;
+}
+.Gender{
+    position: relative;
+    right: -1.5vw;
+}
+.Contact{
+    position: relative;
+    width: 65vw;
+    right: -60vh;
+    top: -27vh;
+    text-align: left;
+}
+.Simpan{
+    position: relative;
+    right: -43.3vw;
+    top: -25vh;
+    width: 10vw;
+}
+.Hapus{
+    position: relative;
+    left: 22%;
+}
+.Username{
+    position: relative;
+    width: 95%;
+    
+}

@@ -1,0 +1,33 @@
+
+.Navigasi {
+    position: relative;
+    right: -77vw;
+    margin-top: 1vh;
+    height: 4vh;
+    width: 40vh;
+
+}
+.Home{
+    position: relative;
+    right: 25vh;
+    text-decoration: none;
+    top: 1vh;
+}
+
+.Kotak{
+    position: relative;
+    right: 9vw !important;
+    width: 40vh;
+    margin-top: -3vh ;
+}
+.Gambar{
+    position: relative;
+    height: 90vh;
+    width: 90vh;
+}
+.Tombol{
+    position: relative;
+    top: -7.5vh;
+    right: -220%;
+    width: 100%;
+}

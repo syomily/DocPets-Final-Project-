@@ -1,0 +1,44 @@
+.navbar {
+    background: #445E6B;
+    color: #fde84d;
+}
+  
+.logo3 {
+    height: 4rem;
+}
+
+.logo4 {
+    height: 3rem;
+    padding-left: 40px;
+}
+  
+.list-unstyled {
+    float: right;
+    padding-right: 10px;
+}
+  
+  
+button {
+    float: right;
+    background: #445E6B;
+    color: #fde84d;
+    margin: 10px;
+}
+  
+.list {
+    list-style: none;
+    float: right;
+    margin: 10px;
+    color: #fde84d;
+}
+  
+  
+form {
+    float: left;
+    margin: 10px;
+}
+
+.btn-primary{
+    background: #445E6B;
+    color: #fde84d;
+}

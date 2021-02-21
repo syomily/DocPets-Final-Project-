@@ -1,0 +1,43 @@
+.doctor-card-container {
+    flex: 1;
+    width: 100%;
+    padding: 1rem;
+    max-height: 100%;
+    border: none;
+    background-color: #fff;
+    object-fit: cover;
+}
+
+.doctor-image {
+    vertical-align: middle;
+    max-width: 70px;
+    border-radius: 50%;
+    margin: 10px;
+};
+
+.text-doctor-up {
+    margin: 0;
+    padding: 0;
+    padding-left: 5px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #fde84d;
+};
+
+.text-doctor-center {
+    margin: 0;
+    padding: 0;
+    padding-left: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #445e6b;
+};
+
+.text-doctor-down {
+    margin: 0;
+    padding: 0;
+    padding-left: 5px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #0F0;
+}
